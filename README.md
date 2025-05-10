@@ -9,7 +9,7 @@ This is a basic web application created for demonstration purposes.  It includes
 * `public/script.js`: The JavaScript file for interactivity.
 * `Dockerfile`: The Dockerfile for containerizing the application with Docker.
 * `podmanfile`: The Podmanfile for containerizing the application with Podman.
-* `README.md`: This file
+* `README.md`: This file.
 
 ## Instructions
 
