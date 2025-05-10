@@ -50,6 +50,5 @@ To run this application, you can use a web server or containerize it using Docke
 4.  **Access the application:**
     * Open your web browser and go to `http://localhost:8080`.
 
-**Note:** The application should look the same when accessed via Docker or Podman.
 
 ## Directory Structure
